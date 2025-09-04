@@ -46,7 +46,7 @@ export function Footer() {
           
           <div className="text-center md:text-right">
             <p className="text-primary-foreground/80 flex items-center justify-center md:justify-end">
-              Made with <Heart className="w-4 h-4 mx-1 text-red-400" /> using Flutter technologies
+              Portfolio
             </p>
             <p className="text-primary-foreground/60 text-sm mt-1">
               © {currentYear} Adnan Mujahid. All rights reserved.
