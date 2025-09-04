@@ -17,7 +17,7 @@ export function Experience() {
     {
       type: "work",
       title: "Flutter Developer Intern",
-      organization: "TechCorp Solutions",
+      organization: "Macrosoar Technologies",
       location: "Islamabad, Pakistan",
       period: "Summer 2023",
       description: "Contributed to multiple Flutter projects, focusing on UI/UX implementation and Firebase integration. Worked on cross-platform mobile applications with real-time features.",
