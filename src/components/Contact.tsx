@@ -63,7 +63,7 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "adnanmujahid@example.com",
+      value: "adnanmujahid360@gmail.com",
       link: "mailto:adnanmujahid@example.com"
     },
     {
